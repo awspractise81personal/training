@@ -1,0 +1,4 @@
+aaaaa
+bbbbnnn
+
+she script
