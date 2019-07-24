@@ -1,4 +1,4 @@
 aaaaa
 bbbbnnn
 
-she script
+#she script  -- hashing the command
